@@ -231,22 +231,18 @@ export const portfolio = [
   {
     id: 1,
     img: Work1,
-    title: "Photo Editing",
+    title: "Hotel Room Booking",
     details: [
       {
         icon: <FiFileText />,
         title: "Project : ",
-        desc: "Photo",
+        desc: "Hotel Satkar",
       },
-      {
-        icon: <FiUser />,
-        title: "Client : ",
-        desc: "Dribble",
-      },
+      
       {
         icon: <FaCode />,
         title: "Language : ",
-        desc: "Adobe Photoshop",
+        desc: "HTML5,CSS3,ReactJs",
       },
       {
         icon: <FiExternalLink />,
@@ -259,18 +255,18 @@ export const portfolio = [
   {
     id: 2,
     img: Work2,
-    title: "Website Design",
+    title: " Job Finder Application",
     details: [
       {
         icon: <FiFileText />,
         title: "Project : ",
-        desc: "Website",
+        desc: "Job Line",
       },
-      {
-        icon: <FiUser />,
-        title: "Client : ",
-        desc: "Dribble",
-      },
+      // {
+      //   icon: <FiUser />,
+      //   title: "Client : ",
+      //   desc: "Dribble",
+      // },
       {
         icon: <FaCode />,
         title: "Language : ",
@@ -287,22 +283,18 @@ export const portfolio = [
   {
     id: 3,
     img: Work3,
-    title: "Video Editing",
+    title: "Github Finder",
     details: [
       {
         icon: <FiFileText />,
         title: "Project : ",
-        desc: "Video",
+        desc: "G Finder",
       },
-      {
-        icon: <FiUser />,
-        title: "Client : ",
-        desc: "Dribble",
-      },
+      
       {
         icon: <FaCode />,
         title: "Language : ",
-        desc: "Adobe Premium",
+        desc: "React Js",
       },
       {
         icon: <FiExternalLink />,
