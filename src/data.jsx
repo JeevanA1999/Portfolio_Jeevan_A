@@ -9,9 +9,9 @@ import {
 } from "react-icons/fa";
 import { FiFileText, FiUser, FiExternalLink } from "react-icons/fi";
 
-import Work1 from "./assets/project-1.jpeg";
-import Work2 from "./assets/project-2.jpg";
-import Work3 from "./assets/project-3.jpeg";
+import Work1 from "./assets/hotel.jpeg";
+import Work2 from "./assets/Jobline.png";
+import Work3 from "./assets/gfinder.jpeg";
 import Work4 from "./assets/project-4.jpeg";
 import Work5 from "./assets/project-5.jpg";
 import Work6 from "./assets/project-6.jpg";
@@ -109,7 +109,7 @@ export const personalInfo = [
   {
     id: 9,
     title: "Skype : ",
-    description: "jeevan.kulal",
+    description: "Jeevan A",
   },
 
   {
@@ -128,7 +128,7 @@ export const stats = [
 
   {
     id: 2,
-    no: "20+",
+    no: "10+",
     title: "Completed <br /> Projects",
   },
 
@@ -152,60 +152,60 @@ export const resume = [
     icon: <FaBriefcase />,
     year: "2022 - PRESENT",
     title: "Web Developer <span> Wipro Ltd </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit,",
+    desc: "Manage application development project from initial designs through completion. Communicating with clients or stakeholders to understand their needs and provide solutions. Collaborating with designers, back-end developers, and stakeholders to create seamless user experiences. Creating and implementing responsive design and optimization techniques to enhance user experience and performance. Troubleshooting and debugging code and resolving issues that may arise.",
   },
 
   {
     id: 2,
     category: "experience",
     icon: <FaBriefcase />,
-    year: "2022 - 2022",
-    title: "Performance Tester <span> Wipro Ltd </span>",
-    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+    year: "2020 - 2020",
+    title: " Software Developer Intern <span> SmartBridge Educational Service Private Limited </span>",
+    desc: " Developed a mobile application using MIT App Inventor to monitor and control greenhouse conditions remotely. Implemented data archiving to IBM Cloud to ensure data availability for future analysis. Built an automated irrigation system using Arduino and Node-RED to optimize water usage in agriculture. Integrated sensors to monitor soil moisture levels and control water flow",
   },
 
-  {
-    id: 3,
-    category: "experience",
-    icon: <FaBriefcase />,
-    year: "2005 - 2013",
-    title: "Consultant <span> Videohive </span>",
-    desc: "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt",
-  },
+  // {
+  //   id: 3,
+  //   category: "experience",
+  //   icon: <FaBriefcase />,
+  //   year: "2005 - 2013",
+  //   title: "Consultant <span> Videohive </span>",
+  //   desc: "Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt",
+  // },
 
   {
     id: 4,
     category: "education",
     icon: <FaGraduationCap />,
-    year: "2015",
-    title: "Engineering <span> Oxford University </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore",
+    year: "2017-2021",
+    title: "Engineering <span> Srinivas Institute of Technology Mangalore </span>",
+    desc: "Bachelor of Engineering in Electronics and Communication",
   },
 
   {
     id: 5,
     category: "education",
     icon: <FaGraduationCap />,
-    year: "2012",
-    title: "Master Degree <span> KIEV University </span>",
-    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+    year: "2015-2017",
+    title: "Pre-University  <span> Carmel Composite PU College, Bantwal  </span>",
+    desc: " Pre-University in PCMC",
   },
 
-  {
-    id: 6,
-    category: "education",
-    icon: <FaGraduationCap />,
-    year: "2009",
-    title: "Bachelor Degree <span> Tunis High School </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore",
-  },
+  // {
+  //   id: 6,
+  //   category: "education",
+  //   icon: <FaGraduationCap />,
+  //   year: "2009",
+  //   title: "Bachelor Degree <span> Tunis High School </span>",
+  //   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore",
+  // },
 ];
 
 export const skills = [
   {
     id: 1,
     title: "Html",
-    percentage: "50",
+    percentage: "80",
   },
 
   {
@@ -217,14 +217,37 @@ export const skills = [
   {
     id: 3,
     title: "Css",
-    percentage: "60",
+    percentage: "80",
   },
 
   {
     id: 4,
     title: "React",
+    percentage: "70",
+  },
+
+  {
+    id: 5,
+    title: "Tailwind Css",
+    percentage: "60",
+  },
+  {
+    id: 6,
+    title: "Bootstrap",
     percentage: "45",
   },
+  {
+    id: 7,
+    title: "Redux",
+    percentage: "62",
+  },
+  {
+    id: 8,
+    title: "Git",
+    percentage: "73",
+  },
+
+
 ];
 
 export const portfolio = [
