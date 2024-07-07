@@ -9,10 +9,10 @@ import {
 } from "react-icons/fa";
 import { FiFileText, FiUser, FiExternalLink } from "react-icons/fi";
 
-import Work1 from "./assets/hotel.jpeg";
-import Work2 from "./assets/Jobline.png";
-import Work3 from "./assets/gfinder.jpeg";
-import Work4 from "./assets/project-4.jpeg";
+import Work1 from "./assets/hotelBooking.png";
+import Work2 from "./assets/jobline.png";
+import Work3 from "./assets/gfinder.png";
+import Work4 from "./assets/cointrace.png";
 import Work5 from "./assets/project-5.jpg";
 import Work6 from "./assets/project-6.jpg";
 
@@ -270,7 +270,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: "Preview : ",
-        desc: "www.dribble.com",
+        desc: "https://hotel-booking-sooty.vercel.app/",
       },
     ],
   },
@@ -298,7 +298,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: "Preview : ",
-        desc: "www.dribble.com",
+        desc: "https://job-finder-six.vercel.app/",
       },
     ],
   },
@@ -330,22 +330,18 @@ export const portfolio = [
   {
     id: 4,
     img: Work4,
-    title: "Video Editing",
+    title: "Coin Trace",
     details: [
       {
         icon: <FiFileText />,
         title: "Project : ",
-        desc: "Video",
+        desc: "Coin Trace",
       },
-      {
-        icon: <FiUser />,
-        title: "Client : ",
-        desc: "Dribble",
-      },
+      
       {
         icon: <FaCode />,
         title: "Language : ",
-        desc: "Adobe Premium",
+        desc: "React Js",
       },
       {
         icon: <FiExternalLink />,
@@ -358,7 +354,7 @@ export const portfolio = [
   {
     id: 5,
     img: Work5,
-    title: "Landing Page",
+    title:"Coin Trace",
     details: [
       {
         title: "Project : ",
