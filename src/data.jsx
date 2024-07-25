@@ -10,9 +10,9 @@ import {
 import { FiFileText, FiUser, FiExternalLink } from "react-icons/fi";
 
 import Work1 from "./assets/hotelBooking.png";
-import Work2 from "./assets/jobline.png";
+import Work2 from "./assets/jobline.jpeg";
 import Work3 from "./assets/gfinder.png";
-import Work4 from "./assets/cointrace.png";
+import Work4 from "./assets/cointrace.jpeg";
 import Work5 from "./assets/project-5.jpg";
 import Work6 from "./assets/project-6.jpg";
 
@@ -346,62 +346,62 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: "Preview : ",
-        desc: "www.dribble.com",
+        desc: "https://coin-trace-h6my.vercel.app/",
       },
     ],
   },
 
-  {
-    id: 5,
-    img: Work5,
-    title:"Coin Trace",
-    details: [
-      {
-        title: "Project : ",
-        desc: "Website",
-      },
-      {
-        title: "Client : ",
-        desc: "Dribble",
-      },
-      {
-        title: "Language : ",
-        desc: "React JS, Node JS",
-      },
-      {
-        title: "Preview : ",
-        desc: "www.dribble.com",
-      },
-    ],
-  },
+  // {
+  //   id: 5,
+  //   img: Work5,
+  //   title:"Coin Trace",
+  //   details: [
+  //     {
+  //       title: "Project : ",
+  //       desc: "Website",
+  //     },
+  //     {
+  //       title: "Client : ",
+  //       desc: "Dribble",
+  //     },
+  //     {
+  //       title: "Language : ",
+  //       desc: "React JS, Node JS",
+  //     },
+  //     {
+  //       title: "Preview : ",
+  //       desc: "www.dribble.com",
+  //     },
+  //   ],
+  // },
 
-  {
-    id: 6,
-    img: Work6,
-    title: "Photo Editing",
-    details: [
-      {
-        icon: <FiFileText />,
-        title: "Project : ",
-        desc: "Photo",
-      },
-      {
-        icon: <FiUser />,
-        title: "Client : ",
-        desc: "Dribble",
-      },
-      {
-        icon: <FaCode />,
-        title: "Language : ",
-        desc: "Adobe Photoshop",
-      },
-      {
-        icon: <FiExternalLink />,
-        title: "Preview : ",
-        desc: "www.dibble.com",
-      },
-    ],
-  },
+  // {
+  //   id: 6,
+  //   img: Work6,
+  //   title: "Photo Editing",
+  //   details: [
+  //     {
+  //       icon: <FiFileText />,
+  //       title: "Project : ",
+  //       desc: "Photo",
+  //     },
+  //     {
+  //       icon: <FiUser />,
+  //       title: "Client : ",
+  //       desc: "Dribble",
+  //     },
+  //     {
+  //       icon: <FaCode />,
+  //       title: "Language : ",
+  //       desc: "Adobe Photoshop",
+  //     },
+  //     {
+  //       icon: <FiExternalLink />,
+  //       title: "Preview : ",
+  //       desc: "www.dibble.com",
+  //     },
+  //   ],
+  // },
 ];
 
 export const themes = [
