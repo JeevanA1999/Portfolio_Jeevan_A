@@ -2,7 +2,7 @@ import React from "react";
 import Info from "../../Components/Info";
 import Stats from "../../Components/Stats";
 import { FaDownload } from "react-icons/fa";
-import CV from "../../assets/jeevan-CV.pdf";
+import CV from "../../assets/jeevan-CV.pdf"
 import "./about.css";
 import Skills from "../../Components/Skills";
 import { resume } from "../../data";
