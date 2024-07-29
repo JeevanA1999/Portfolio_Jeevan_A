@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.47d56bb5.css",
+    "main.js": "/static/js/main.af3cda20.js",
+    "static/media/hotelBooking.png": "/static/media/hotelBooking.10f25a76a320507d666b.png",
+    "static/media/Profile1.jpg": "/static/media/Profile1.dea49633b9ef8b900ad6.jpg",
+    "static/media/gfinder.png": "/static/media/gfinder.93088690948ed2a06fbd.png",
+    "static/media/jobline.jpeg": "/static/media/jobline.f4668bca3b78bb98d710.jpeg",
+    "static/media/cointrace.jpeg": "/static/media/cointrace.41b1b1b2c0fc099c6bf6.jpeg",
+    "static/media/jeevan-CV.pdf": "/static/media/jeevan-CV.b72454f82efb25978372.pdf",
+    "static/media/close.svg": "/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
+    "index.html": "/index.html",
+    "main.47d56bb5.css.map": "/static/css/main.47d56bb5.css.map",
+    "main.af3cda20.js.map": "/static/js/main.af3cda20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d56bb5.css",
+    "static/js/main.af3cda20.js"
+  ]
+}
