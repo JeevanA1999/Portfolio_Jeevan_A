@@ -7,14 +7,13 @@ import {
   FaGraduationCap,
   FaCode,
 } from "react-icons/fa";
-import { FiFileText, FiUser, FiExternalLink } from "react-icons/fi";
+import { FiFileText, FiExternalLink } from "react-icons/fi";
 
 import Work1 from "./assets/hotelBooking.png";
 import Work2 from "./assets/jobline.jpeg";
 import Work3 from "./assets/gfinder.png";
 import Work4 from "./assets/cointrace.jpeg";
-import Work5 from "./assets/project-5.jpg";
-import Work6 from "./assets/project-6.jpg";
+
 
 import Theme1 from "./assets/purple.png";
 import Theme2 from "./assets/red.png";
